@@ -8,6 +8,9 @@ function setBestCustomer(){
   return customerName = customerName.toUpperCase();
 }
 
+function overWriteBestCustomer(){
+  return customerName = customerName.toUpperCase();
+}
 
 function overWriteBestCustomer(){
   return customerName = customerName.toUpperCase();
