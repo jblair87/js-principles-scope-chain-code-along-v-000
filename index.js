@@ -10,7 +10,7 @@ bestCustomer = "not bob";
 }
 
 function overWriteBestCustomer(){
-  return customerName = customerName.toUpperCase();
+  return customerName = "maybe bob"
 }
 
 function changeLeastFavoriteCustomer (){
