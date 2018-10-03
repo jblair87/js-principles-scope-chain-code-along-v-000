@@ -1,5 +1,6 @@
 var customerName = "bob";
 
 function upperCaseCustomerName(){
-  const upperCaseCustomerName = ""
+  const upperCaseCustomerName = "BOB";
+  return customerName;
 }
