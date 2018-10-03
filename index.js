@@ -16,6 +16,6 @@ function reassignLeastFavorite(){
   return customerName = customerName.toUpperCase();
 }
 
-function reassignLeastFavorite(){
+function attemptTwoFavoriteCustomers(){
   return customerName = customerName.toUpperCase();
 }
