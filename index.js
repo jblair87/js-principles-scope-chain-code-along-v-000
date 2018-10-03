@@ -10,7 +10,7 @@ bestCustomer = "not bob";
 }
 
 function overWriteBestCustomer(){
-  return customerName = "maybe bob"
+  return customerName = "maybe bob";
 }
 
 function changeLeastFavoriteCustomer (){
