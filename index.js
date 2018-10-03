@@ -9,8 +9,8 @@ function setBestCustomer(){
 bestCustomer = "not bob";
 }
 
-function overWriteBestCustomer(){
-  return customerName = "maybe bob";
+function overWriteBestCustomer(newFavorite){
+customerName = "maybe bob";
 }
 
 function changeLeastFavoriteCustomer (){
