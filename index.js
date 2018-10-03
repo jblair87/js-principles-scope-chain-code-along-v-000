@@ -15,3 +15,7 @@ function overWriteBestCustomer(){
 function reassignLeastFavorite(){
   return customerName = customerName.toUpperCase();
 }
+
+function reassignLeastFavorite(){
+  return customerName = customerName.toUpperCase();
+}
