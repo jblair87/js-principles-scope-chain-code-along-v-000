@@ -10,7 +10,7 @@ bestCustomer = "not bob";
 }
 
 function overWriteBestCustomer(newFavorite){
-customerName = "maybe bob";
+bestCustomer = newFavorite
 }
 
 function changeLeastFavoriteCustomer (){
