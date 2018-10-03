@@ -13,8 +13,8 @@ function overWriteBestCustomer(){
   return customerName = customerName.toUpperCase();
 }
 
-function reassignLeastFavorite(){
-  return customerName = customerName.toUpperCase();
+function changeLeastFavoriteCustomer (){
+ leastFavoriteCustomer = 'other guy'
 }
 
 function attemptTwoFavoriteCustomers(){
